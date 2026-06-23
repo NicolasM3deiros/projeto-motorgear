@@ -50,7 +50,7 @@ Este projeto foi desenvolvido como atividade somativa para a disciplina de Funda
  ┗ 📜 formAction.html
 
 ```
-##🚀 Como Executar Localmente
+## 🚀 Como Executar Localmente
 
 Faça o clone deste repositório:
 
