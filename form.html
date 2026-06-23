@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MotoGear - Contato</title>
+    <link rel="stylesheet" href="estilos/style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">MotoGear</div>
+        <div class="links">
+            <a href="index.html">Início</a>
+            <a href="form.html">Contato</a>
+            <a href="about.html">Sobre</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h2 class="titulo-secao">Fale Conosco</h2>
+        
+        <div class="layout-dividido">
+            <div class="info-contato">
+                <h3>Central de Atendimento</h3>
+                <p>Nossa equipe está pronta para equipar você com o melhor do mercado para a sua rotina nas ruas.</p>
+                <br>
+                <ul>
+                    <li><span>📍</span> Rua das Motocicletas, 1000<br>Curitiba - PR</li>
+                    <li><span>📞</span> (41) 99999-0000</li>
+                    <li><span>✉️</span> orcamento@motogear.com.br</li>
+                    <li><span>⏰</span> Seg a Sex - 08h às 18h</li>
+                </ul>
+            </div>
+
+            <div class="formulario-contato">
+                <form action="formAction.html" method="GET" onsubmit="return validarFormulario()">
+                    <div class="form-group">
+                        <label for="nome">Nome Completo:</label>
+                        <input type="text" id="nome" name="nome" placeholder="Digite seu nome">
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="email">E-mail corporativo ou pessoal:</label>
+                        <input type="text" id="email" name="email" placeholder="seuemail@exemplo.com">
+                    </div>
+
+                    <div class="form-group">
+                        <label for="mensagem">Itens de Interesse (Mensagem):</label>
+                        <textarea id="mensagem" name="mensagem" rows="5" placeholder="Ex: Olá, gostaria de um orçamento para a Luva X11 e o Capacete Aerodinâmico..."></textarea>
+                    </div>
+
+                    <button type="submit" class="btn-enviar">Enviar Solicitação Rápida</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="script/main.js"></script>
+</body>
+</html>
