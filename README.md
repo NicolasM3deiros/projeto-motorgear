@@ -11,7 +11,7 @@ O **MotoGear** é um projeto front-end de uma loja virtual voltada para equipame
 
 Este projeto foi desenvolvido como atividade somativa para a disciplina de Fundamentos de Programação Web do curso de Análise e Desenvolvimento de Sistemas (PUCPR). O objetivo principal foi aplicar os conceitos essenciais de estruturação, estilização e interatividade web utilizando tecnologias nativas (Vanilla), sem o auxílio de frameworks ou bibliotecas externas.
 
-🔗 **[Acesse o projeto rodando ao vivo aqui](COLE_AQUI_O_SEU_LINK_DO_GITHUB_PAGES)**
+🔗 **[Acesse o projeto rodando ao vivo aqui]((https://nicolasm3deiros.github.io/projeto-motorgear/))**
 
 ---
 
