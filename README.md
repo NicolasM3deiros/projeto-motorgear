@@ -48,20 +48,26 @@ Este projeto foi desenvolvido como atividade somativa para a disciplina de Funda
  ┣ 📜 about.html
  ┣ 📜 form.html
  ┗ 📜 formAction.html
-🚀 Como Executar Localmente
+
+```
+##🚀 Como Executar Localmente
+
 Faça o clone deste repositório:
 
+```text
 Bash
    git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-Abra a pasta do projeto no seu editor de código (ex: VS Code).
+```
+1. Abra a pasta do projeto no seu editor de código (ex: VS Code).
 
-Utilize a extensão Live Server para rodar o projeto ou simplesmente abra o arquivo index.html diretamente no seu navegador web padrão.
+2. Utilize a extensão Live Server para rodar o projeto ou simplesmente abra o arquivo index.html diretamente no seu navegador web padrão.
 
 👨‍💻 Autor
 Nicolas Alcides Laranjeira Medeiros
 
 Estudante de Análise e Desenvolvimento de Sistemas
 
-
+```text
 **Últimos ajustes antes de salvar:** 
 Lembre-se de substituir os textos indicados (como `COLE_AQUI_O_SEU_LINK_DO_GITHUB_PAGES` e `SEU_USUARIO`) pelos seus links reais lá dentro do arquivo no GitHub!
+```
